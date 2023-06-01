@@ -7,5 +7,5 @@ Không dùng/ hạn chế dùng các thư viện như numpy. Xử lý bài toán
 - Lab 2: Hàm tìm ma trận nghịch đảo
 - Lab 3: Phân rã QR
 - Lab 4: Chéo hoá
-- Lab 5: Linear Regression (data wine.csv)
+- Lab 5: Linear Regression (data wine.csv)   
 ***Mã nguồn do mình tự viết, vui lòng chỉ dùng để tham khảo, không sao chép và dùng lại trong đồ án của bạn (ở phạm vi đồ án môn học)***
